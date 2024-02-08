@@ -54,10 +54,3 @@ Grading:
 - [React](https://reactjs.org/) - JS library
 - [Redux](https://redux.js.org/) - State management tool
 
-## Author
-
-- LinkedIn - [Shrikant Kushwah](https://www.linkedin.com/in/shrikant-kushwah-5bb1911b2/)
-
-- GitHub - [Shrikant Kushwah](https://github.com/shrikant-kushwah)
-
-- Twitter - [Shrikant Kushwah](https://twitter.com/kushwa_shrikant)
